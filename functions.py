@@ -1,4 +1,4 @@
-from matplotlib import pyplot
+from matplotlib import pyplot 
 import math
 import numpy
 
